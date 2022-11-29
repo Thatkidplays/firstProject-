@@ -1,0 +1,40 @@
+<html>
+	<head>
+			<title>m WORLD</title>
+	</head>
+	
+	<body>
+			<h1>this is h1</h1>
+			<h2>this is h2</h2>
+			<h3>this is h3</h3>
+			<h4>this is h4</h4>
+			<h1>hello this is a test site please stay calm</h1>
+			<p>hi. <br /> i hope you stay
+			<img src=images.jpg />
+			<hr />
+			<p> this is how you write a paragraf.
+			<ol>
+			<li>first item</li>
+			<li>second item</li>
+			</ol>
+			<ul>
+			<li>first item</li>
+			<li>sedcond item</li>
+			</ul>
+			<h1>My stuff</h1>
+			<nav>
+			<h2>Menu</h2>
+			<a href = "#destinations">Destinations</a>
+			</nav>
+			<div id = "destinations">
+			<h3>macedonia</h3>
+			<h3>adhjadjd</h3>
+			<h3>addaddadda</h3>
+			<h3>podad</h3>
+			</div>
+			<div id = "gallery"></div>
+			<iframe width="420" height="315" src="https://www.youtube.com/watch?v=H01BwSD9eyQ&ab_channel=LiterallyNoOne"
+			</iframe>
+			<iframe width="420" height="315" src="https://www.youtube.com/embed/rEtuPhl6930?rel=0" </iframe>
+	</body>
+</html>
